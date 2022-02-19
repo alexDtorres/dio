@@ -1,7 +1,7 @@
-# dio
-[![Go](https://github.com/alexDtorres/dio/actions/workflows/go.yml/badge.svg?branch=master&event=push)](https://github.com/alexDtorres/dio/actions/workflows/go.yml)
+# Dio
+[![CI](https://github.com/alexDtorres/dio/actions/workflows/main.yml/badge.svg)](https://github.com/alexDtorres/dio/actions/workflows/main.yml)
 
-Dio is our reference command line interface (CLI) for working with DBHub.io.
+A reference command line interface (CLI) application for accessing DBHub.io resources.
 
 It can be used used to:
 

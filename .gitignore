@@ -23,3 +23,9 @@ dio
 *.db
 .dio
 *-LICENCE
+
+# macOS
+.DS_Store
+
+# SHA256 files
+*.SHA256

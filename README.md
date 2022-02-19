@@ -1,5 +1,6 @@
 # Dio
 [![CI](https://github.com/alexDtorres/dio/actions/workflows/main.yml/badge.svg)](https://github.com/alexDtorres/dio/actions/workflows/main.yml)
+[![CodeQL](https://github.com/alexDtorres/dio/actions/workflows/codeql-analysis.yml/badge.svg)](https://github.com/alexDtorres/dio/actions/workflows/codeql-analysis.yml)
 
 A reference command line interface (CLI) application for accessing DBHub.io resources.
 
